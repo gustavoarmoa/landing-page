@@ -16,7 +16,7 @@ const App = ({ Component, pageProps }: AppProps) => {
         <link rel="apple-touch-icon" href="/img/icon-512.png" />
       </Head>
       <NextSeo
-        title="React Avançado - Crie aplicações reais com NextJS, GraphQL e mais."
+        title="React Turbinado - Crie aplicações reais com NextJS, GraphQL e mais."
         description="Aprenda a criar um Ecommerce completo, indo do Backend ao Frontend utilizando tecnologias como ReactJS, NextJS, Strapi, GraphQL, Apollo e muito mais!"
         canonical="https://reactavancado.com.br/"
         openGraph={{
