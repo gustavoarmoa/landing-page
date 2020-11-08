@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { GraphQLClient } from 'graphql-request';\nconst client = new GraphQLClient(process.env.GRAPHQL_HOST);\nexport default client;","map":null,"metadata":{},"sourceType":"module"}

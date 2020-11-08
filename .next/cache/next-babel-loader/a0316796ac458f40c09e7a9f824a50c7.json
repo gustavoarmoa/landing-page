@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nimport media from 'styled-media-query';\nexport const LogoWrapper = styled.img.withConfig({\n  displayName: \"styles__LogoWrapper\",\n  componentId: \"sc-31y4qz-0\"\n})([\"width:22rem;\", \"\"], media.greaterThan('medium')`\n    width: 24.5rem;\n  `);","map":null,"metadata":{},"sourceType":"module"}

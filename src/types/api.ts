@@ -1,7 +1,3 @@
-import { SectionReviews } from 'components/SectionReviews'
-import { SectionAgenda } from 'components/SectionAgenda'
-import { SectionModules } from 'components/SectionModules'
-import { sectionConcepts } from './api'
 export type TechIcons = {
   title: string
   icon: {
@@ -83,7 +79,7 @@ export type Author = {
 
 export type SectionAboutUsProps = {
   title: string
-  authors: Author
+  authors: Author[]
 }
 
 export type Review = {
