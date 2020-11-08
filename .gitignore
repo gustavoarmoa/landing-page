@@ -114,8 +114,10 @@ Temporary Items
 .apdisk
 
 # Environment
-.env.development
-.env.production
+.env
+exports
+.cache
+build
 
 # End of https://www.gitignore.io/api/macos
 
